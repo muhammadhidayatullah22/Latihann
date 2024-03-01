@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihann</string>
+    <string name="kalkulator">KALKULATOR</string>
+    <string name="masukkan_angka">masukkan_angka</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">÷</string>
+    <string name="hasil">Hasil</string>
+</resources>
